@@ -35,9 +35,7 @@ Quando não estou programando, estou provavelmente:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  https://streak-stats.demolab.com?user=ig0moon&theme=tokyonight
-</div>
+<img src="https://streak-stats.demolab.com?user=ig0moon&theme=tokyonight" />
 
 ---
 
