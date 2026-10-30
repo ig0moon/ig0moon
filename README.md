@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Igo!
+# Análise e Desenvolvimento de Sistemas | Desenvolvedor Fullstack
 
 Desenvolvedor Fullstack com 1 ano de experiência, atualmente estudando **Análise e Desenvolvimento de Sistemas** no **Senac Ponta Grossa** e atuando como **Dev Fullstack na Madalozzo Seguros**.
 
@@ -43,5 +43,5 @@ Quando não estou programando, estou provavelmente:
 ---
 
 <p align="center">
-  <em>21 anos · Ponta Grossa, PR · ADS Senac · 1 ano de experiência</em>
+  <em>21 anos · Ponta Grossa, PR · ADS Senac</em>
 </p>
